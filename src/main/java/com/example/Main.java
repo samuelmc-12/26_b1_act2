@@ -1,8 +1,5 @@
 package com.example;
 
-import com.CuentaBancaria;
-import com.Estudiante;
-
 public class Main {
     public static void main(String[] args) {
         Libro l1 = new Libro(); 
